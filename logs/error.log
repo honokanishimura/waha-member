@@ -1,0 +1,22 @@
+[Thu Jan 28 11:54:47.020315 2021] [proxy:error] [pid 16436] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9074 (*) failed
+[Thu Jan 28 11:54:47.020378 2021] [proxy_fcgi:error] [pid 16436] [client 121.106.197.181:61455] AH01079: failed to make connection to backend: 127.0.0.1
+[Thu Jan 28 11:54:49.790533 2021] [proxy:error] [pid 16829] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9074 (*) failed
+[Thu Jan 28 11:54:49.790586 2021] [proxy_fcgi:error] [pid 16829] [client 121.106.197.181:61456] AH01079: failed to make connection to backend: 127.0.0.1
+[Thu Jan 28 11:56:53.306483 2021] [proxy:error] [pid 16441] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9074 (*) failed
+[Thu Jan 28 11:56:53.306533 2021] [proxy_fcgi:error] [pid 16441] [client 121.106.197.181:61482] AH01079: failed to make connection to backend: 127.0.0.1
+[Thu Jan 28 11:56:55.045286 2021] [proxy:error] [pid 16460] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9074 (*) failed
+[Thu Jan 28 11:56:55.045357 2021] [proxy_fcgi:error] [pid 16460] [client 121.106.197.181:61483] AH01079: failed to make connection to backend: 127.0.0.1
+[Thu Jan 28 11:59:48.098728 2021] [proxy:error] [pid 16493] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9074 (*) failed
+[Thu Jan 28 11:59:48.098791 2021] [proxy_fcgi:error] [pid 16493] [client 121.106.197.181:61507] AH01079: failed to make connection to backend: 127.0.0.1
+[Thu Jan 28 11:59:49.671657 2021] [proxy:error] [pid 16484] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9074 (*) failed
+[Thu Jan 28 11:59:49.671729 2021] [proxy_fcgi:error] [pid 16484] [client 121.106.197.181:61508] AH01079: failed to make connection to backend: 127.0.0.1
+[Thu Jan 28 12:01:09.718942 2021] [proxy:error] [pid 16853] (111)Connection refused: AH00957: FCGI: attempt to connect to 127.0.0.1:9074 (*) failed
+[Thu Jan 28 12:01:10.115591 2021] [proxy_fcgi:error] [pid 16853] [client 121.106.197.181:61531] AH01079: failed to make connection to backend: 127.0.0.1
+[Thu Jun 03 07:33:35.233405 2021] [auth_basic:error] [pid 13415] [client 202.140.221.49:52204] AH01618: user waha not found: /
+[Thu Jun 03 07:34:50.467144 2021] [auth_basic:error] [pid 15374] [client 202.140.221.49:57538] AH01618: user waha not found: /
+[Thu Jun 03 14:55:14.243042 2021] [auth_basic:error] [pid 26634] [client 202.140.221.49:52387] AH01618: user waha not found: /
+[Thu Jun 03 14:55:34.894768 2021] [auth_basic:error] [pid 13415] [client 202.140.221.49:52555] AH01618: user waha not found: /
+[Thu Jun 03 14:57:44.348415 2021] [auth_basic:error] [pid 26634] [client 202.140.221.49:54989] AH01618: user waha not found: /
+[Thu Jun 03 15:11:53.419263 2021] [auth_basic:error] [pid 27448] [client 118.243.209.107:24763] AH01618: user waha not found: /
+[Thu Jun 03 15:30:53.078377 2021] [auth_basic:error] [pid 13428] [client 118.243.209.107:25146] AH01618: user waha not found: /
+[Wed Jun 09 22:53:27.572948 2021] [proxy_fcgi:error] [pid 24499] [client 118.243.209.107:20021] AH01071: Got error 'PHP message: PHP Warning:  POST Content-Length of 14070609 bytes exceeds the limit of 8388608 bytes in Unknown on line 0', referer: http://member-admin.waha.comming-soon.org/members/bulk
