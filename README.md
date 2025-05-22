@@ -39,15 +39,17 @@ The project was built individually as a portfolio-grade application, simulating 
 
 ## Screenshots
 
-### Member List with Filters  
+### Member List  
 ![Member List](https://github.com/user-attachments/assets/4c8eaf03-cb75-4cdd-8453-e93c9b86fdb3)
+
+
+### Member Registration
+![Register Mobile](https://github.com/user-attachments/assets/1341c32f-04e7-479b-bff2-b11377a2f89d)
 
 ### CSV Bulk Upload  
 ![CSV Upload](https://github.com/user-attachments/assets/1fdffab7-2521-42e1-896e-1a03d13d21fe)
 
 
-### Member Registration (Responsive)  
-![Register Mobile]((https://github.com/user-attachments/assets/1341c32f-04e7-479b-bff2-b11377a2f89d)
 
 
 
